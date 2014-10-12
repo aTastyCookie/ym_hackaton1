@@ -1,0 +1,20 @@
+﻿body{
+  position: relative;
+  padding-top: 60px;
+  font-family: 'PT Sans', sans-serif;
+  }
+.navbar h1 { color: #fff}
+.tab-pane { padding-top:25px;}
+footer{
+   position:fixed;
+   left:0px;
+   bottom:0px;
+   width:100%;
+   background:#999;
+   font-size:9px;
+}
+.footer {
+  padding: 5px 0;
+  border-top: 1px solid #e5e5e5;
+  background-color: #f5f5f5;
+}
